@@ -10,6 +10,4 @@ comment4.params=grupo
 comment4.target=void\ setGrupo(int)
 comment5.params=
 comment5.target=int\ getGrupo()
-comment6.params=
-comment6.target=java.lang.String\ toString()
-numComments=7
+numComments=6

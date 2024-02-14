@@ -8,6 +8,4 @@ comment3.params=indice
 comment3.target=void\ eliminar(int)
 comment4.params=nombre
 comment4.target=void\ crearArchivo(java.lang.String)
-comment5.params=
-comment5.target=void\ guardarDatos()
-numComments=6
+numComments=5
